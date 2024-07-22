@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartłomiej Kamiński</h1>
-<h3 align="center">I enjoy softmodding electronic devices, building home servers, and configuring networks using open-source software. I specialize in developing business applications, utilizing the most popular programming languages, frameworks, and databases.
-In my free time, I follow the electronics market, and I also engage in repairing, upgrading, and maintaining such devices. I am passionate about traveling and staying active through sports like tennis, swimming, and running.</h3>
+<h3 align="center">I’m a student at the Polish-Japanese Academy of Information Technology. This is where I learned how to build various kinds of business applications, utilizing the most popular programming languages, frameworks, and databases.
+<br />I enjoy softmodding electronic devices, building home servers, and configuring networks using open-source software.
+<br />In my free time, I follow the electronics market, and I also engage in repairing, upgrading, and maintaining such devices. I am passionate about traveling and staying active through sports like tennis, swimming, and running.</h3>
 
 - 📫 How to reach me **bkkami92@gmail.com**
 
