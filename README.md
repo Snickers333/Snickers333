@@ -1,3 +1,4 @@
+[![MasterHead](banner.jpg)](banner.jpg)
 <h1 align="center">Hi 👋, I'm Bartłomiej Kamiński</h1>
 <h3 align="center">I’m a student at the Polish-Japanese Academy of Information Technology. This is where I learned how to build various kinds of business applications, utilizing the most popular programming languages, frameworks, and databases.
 <br />I enjoy softmodding electronic devices, building home servers, and configuring networks using open-source software.
